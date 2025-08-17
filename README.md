@@ -1,2 +1,2 @@
 # sigma
-just to learn
+just to learn.
